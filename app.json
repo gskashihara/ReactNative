@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "name": "ME MarketPlace",
+    "description": "Marketplace",
+    "android": {
+      "package": "com.kashihara.memarketplace"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.kashihara.memarketplace"
+    }
+  }
+}
